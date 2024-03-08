@@ -32,9 +32,13 @@ Currently, learning:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=immortal-forest&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=immortal-forest&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=immortal-forest&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=immortal-forest&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immortal-forest&theme=midnight-purple&hide_border=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immortal-forest&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immortal-forest&hide_border=true&theme=material-palenight&radius=16" height="300" />
+  
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=immortal-forest&theme=discord&no-frame=false&no-bg=true&margin-w=4)
