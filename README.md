@@ -60,4 +60,5 @@ Currently, learning:
 ![](https://github-profile-trophy.vercel.app/?username=immortal-forest&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=immortal-forest&icon=1&color=6)](https://visitcount.itsvg.in)
+
+[![Profile Views](https://hits.sh/github.com/immortal-forest/hits.svg.svg?label=Profile%20Views&color=8A2BE2)](https://hits.sh/github.com/immortal-forest/hits.svg/)
