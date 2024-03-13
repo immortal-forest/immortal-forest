@@ -61,4 +61,4 @@ Currently, learning:
 
 ---
 
-![Profile Views](https://hits.sh/github.com/immortal-forest/hits.svg.svg?label=Profile%20Views&color=8A2BE2)
+![Profile Views](https://visitcount.itsvg.in/api?id=immortal-forest&icon=1&color=6)
