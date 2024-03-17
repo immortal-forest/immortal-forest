@@ -20,7 +20,7 @@ Currently, learning:
 ![](https://skillicons.dev/icons?i=python,kotlin,java,c,html,css,js&theme=dark)
 
 ## 🖊 Editors & IDEs
-![](https://skillicons.dev/icons?i=neovim,androidstudio,pycharm,vscode)
+![](https://skillicons.dev/icons?i=neovim,androidstudio,pycharm,idea,vscode)
 
 ## ⚙ Tools & Technologies
 <div align="left">
@@ -45,6 +45,9 @@ Currently, learning:
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
 </div>
 
 ## 📊 GitHub Stats
