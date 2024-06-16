@@ -2,11 +2,6 @@
 
 <p>
 I'm a Python developer passionate about AI and ML, with experience in Android development.
-<br>
-
-Currently, learning: 
-
-![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
 </p>
 
 
