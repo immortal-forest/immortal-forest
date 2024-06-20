@@ -47,7 +47,7 @@ I'm a Python developer passionate about AI and ML, with experience in Android de
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immortal-forest&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=immortal-forest&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=immortal-forest&theme=midnight-purple&hide_border=false" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immortal-forest&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=immortal-forest&hide_border=true&theme=material-palenight&radius=16" height="300" />
