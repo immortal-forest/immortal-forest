@@ -12,7 +12,7 @@ I'm a Python developer passionate about AI and ML, with experience in Android de
 ![i use arch btw](https://skillicons.dev/icons?i=arch)
 
 ## 📄 Languages
-![](https://skillicons.dev/icons?i=python,kotlin,java,c,html,css,js&theme=dark)
+![](https://skillicons.dev/icons?i=python,kotlin,java,c,js&theme=dark)
 
 ## 🖊 Editors & IDEs
 ![](https://skillicons.dev/icons?i=neovim,androidstudio,pycharm,idea,vscode)
