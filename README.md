@@ -4,12 +4,8 @@
 I'm a Python developer passionate about AI, with experience in Android development.
 </p>
 
-
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/765800829680353321) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.hate.java) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman--ali)
-
-## 🖥️ OS
-![i use arch btw](https://skillicons.dev/icons?i=arch)
 
 ## 📄 Languages
 ![](https://skillicons.dev/icons?i=python,kotlin,java,c,js&theme=dark)
