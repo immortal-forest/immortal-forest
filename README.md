@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-I'm a Python developer passionate about AI, with experience in Android development.
+Hmm...
 </p>
 
 ## 🌐 Socials
